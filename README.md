@@ -3,9 +3,11 @@
   <img src="https://github.com/user-attachments/assets/b2715181-d616-4175-b25c-96e6083938e8"/>
 </p>
 <h2 align="center">About me</h2>
-<p>Hello, my name is Adrián and I'm studying to be advanced expert in development of computer applications. I am
-passionate about programming, Every day I try to learn something new. Also, I would like to learn new technologies!. 
-I consider myself a very disciplined person, I am responsible and often selfdemanding.</p>
+<p>Hello, my name is Adrián and I am a Higher Technician in Multiplatform Application Development.
+Currently, I am studying a Master's degree in Artificial Intelligence and Big Data.
+I am passionate about programming and technology, and every day I try to learn something new.
+I am especially interested in data science, machine learning, and software development.
+I consider myself a disciplined, responsible, and self-demanding person, always motivated to improve my skills and learn new technologies.</p>
 
 <h2>🎯 Some technologies I use</h2>
 <p>
