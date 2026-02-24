@@ -28,4 +28,4 @@ I consider myself a disciplined, responsible, and self-demanding person, always 
 
 
 <h2>📫 My contact</h2>
-<p>You can contact me by email <b>adriacarlos2004@gmail.com</b></p>
+<p>You can contact me by email <b>adriacarlos2004@gmail.com</b> or <a href="https://www.linkedin.com/in/adri%C3%A1n-garc%C3%ADa-garc%C3%ADa-6ab399333/">Linkedin</a></p>
