@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Adrián</h1>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" height="50" weight="50"/>, I'm Adrián</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b2715181-d616-4175-b25c-96e6083938e8"/>
 </p>
