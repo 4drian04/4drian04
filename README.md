@@ -35,4 +35,4 @@ I consider myself a disciplined, responsible, and self-demanding person, always 
 
 
 <h2>📫 My contact</h2>
-<p>You can contact me by email <b>adriacarlos2004@gmail.com</b> or <a href="https://www.linkedin.com/in/adri%C3%A1n-garc%C3%ADa-garc%C3%ADa-6ab399333/">Linkedin</a></p>
+<p><a href="mailto:adriacarlos2004@gmail.com"><img src="https://camo.githubusercontent.com/0d94be04ffdd32adb7e4b9068c0680407e39251ac8f11d4f9748fb187183bbf4/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676d61696c"/></a><a href="https://www.linkedin.com/in/adri%C3%A1n-garc%C3%ADa-garc%C3%ADa-6ab399333/"> <img src="https://camo.githubusercontent.com/1cacbcddf4812a33ce5f62c2aa6698ae7c4ee3c4a7dd780da70415b62b5199bc/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e"/></a></p>
