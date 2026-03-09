@@ -9,7 +9,7 @@ I am passionate about programming and technology, and every day I try to learn s
 I am especially interested in data science, machine learning, and software development.
 I consider myself a disciplined, responsible, and self-demanding person, always motivated to improve my skills and learn new technologies.</p>
 
-<h2>🎯 Some languages I use</h2>
+<h2><img src="https://camo.githubusercontent.com/c046573d7598d2b619310a82caccd33ca2cc898c9ef6965789559de012bf3107/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" height="30" weight="30"/> Some languages I use</h2>
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
