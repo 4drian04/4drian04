@@ -24,7 +24,7 @@ I consider myself a disciplined, responsible, and self-demanding person, always 
 <h2>🤖 Some IA & machine learning libraries I use</h2>
 <p><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/></p>
 
-<h2>📊 Big Data & Data Science</h2>
+<h2><img src="https://cdn-icons-gif.flaticon.com/17771/17771121.gif" height="40" weight="40"/> Big Data & Data Science</h2>
 <p><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/polars-0075ff?style=for-the-badge&logo=polars&logoColor=white"/> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black"/> </p>
 
 <h2>☁️ Cloud and Virtualization</h2>
